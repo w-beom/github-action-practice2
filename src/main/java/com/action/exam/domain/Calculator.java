@@ -1,8 +1,6 @@
 package com.action.exam.domain;
 
 public class Calculator {
-
-
     public int plus(int a, int b) {
         return a + b;
     }
@@ -11,5 +9,7 @@ public class Calculator {
         return a - b;
     }
 
-    public String
+    public void print(){
+        System.out.println("hello World");
+    }
 }
