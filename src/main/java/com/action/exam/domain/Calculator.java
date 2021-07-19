@@ -10,6 +10,6 @@ public class Calculator {
     }
 
     public void print(){
-        System.out.println("hello World");
+        System.out.println("hello ");
     }
 }
